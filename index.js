@@ -22,3 +22,4 @@ if (process.argv[2]) {
     "input a type to see a list of pokemons names and URL's example node index.js 'type' "
   );
 }
+
